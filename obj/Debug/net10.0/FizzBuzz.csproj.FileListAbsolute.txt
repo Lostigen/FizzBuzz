@@ -12,3 +12,4 @@ C:\DevIsFun\FizzBuzz\obj\Debug\net10.0\refint\FizzBuzz.dll
 C:\DevIsFun\FizzBuzz\obj\Debug\net10.0\FizzBuzz.pdb
 C:\DevIsFun\FizzBuzz\obj\Debug\net10.0\FizzBuzz.genruntimeconfig.cache
 C:\DevIsFun\FizzBuzz\obj\Debug\net10.0\ref\FizzBuzz.dll
+C:\DevIsFun\FizzBuzz\obj\Debug\net10.0\FizzBuzz.sourcelink.json
